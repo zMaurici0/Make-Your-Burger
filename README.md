@@ -6,11 +6,11 @@ O usuário pode montar seu próprio hambúrguer, personalizando os ingredientes 
 
 Este projeto foi desenvolvido com fins educacionais, como uma forma de praticar conceitos importantes do ecossistema Vue.js, além de compreender na prática como funciona o consumo de APIs REST, manipulação de dados e interatividade em uma SPA (Single Page Application).
 
-
+# Imagens
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c15f9e69-444e-41af-a573-6e3284169087" width="800px" />
-<img src="https://github.com/user-attachments/assets/e973f597-9d31-41f4-8021-607b8c1c32a0" width="800px" />
+<img src="https://github.com/user-attachments/assets/78cfb84f-5ec0-4e4a-8842-058e8a8815fc" width="500px" />
+<img src="https://github.com/user-attachments/assets/deda22fa-d9a0-4312-ba7c-9e2b4d65581b" width="500px" />
 </div>
 
 ## Tecnologias Utilizadas
